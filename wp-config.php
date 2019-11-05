@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'pika' );
 
 /** MySQL database username */
-define( 'DB_USER', 'admin' );
+define( 'DB_USER', 'root' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '33ef488821aa443a4c30194b1892221a1dd8f1bfa06c2829' );
+define( 'DB_PASSWORD', '' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
